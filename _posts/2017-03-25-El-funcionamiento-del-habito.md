@@ -11,10 +11,7 @@ comment: true
 ---
 
 
-Seguramente te ha pasado que has intentado crear algún hábito nuevo o cambiar alguno que tengas y a pesar de estar muy motivado al final no lo consigues.
-
-
-A mi me ha pasado bastantes veces a lo largo de los años y no entendía porqué. Esto me llevó a investigar y profundizar sobre este tema. 
+Seguramente te ha pasado que has intentado crear algún hábito nuevo o cambiar alguno que tengas y a pesar de estar muy motivado al final no lo consigues. A mi me ha pasado bastantes veces a lo largo de los años y no entendía porqué. Esto me llevó a investigar y profundizar sobre este tema. 
 
 En cuanto empiezas a buscar un poco, mas pronto que tarde llegas al libro **El poder de los hábitos** de Charles Duhigg. Un libro muy interesante y que te recomiendo leer. 
 
