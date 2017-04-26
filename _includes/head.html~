@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <figure>
 	<center>
-		<a href="http://vaciatubandeja.com" ><img src="/images/Logo2.jpg" style="max-width:200px;"alt="Vacía tu bandeja" />	
+		<a href="{{ site.url }}" ><img src="/images/Logo2.jpg" style="max-width:200px;"alt="Vacía tu bandeja" />	
 	</center>  
  
   </figure>

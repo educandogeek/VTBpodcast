@@ -4,7 +4,15 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Episodios</h1>
+<figure>
+	<center>
+		<a href="{{ site.url }}" ><img src="/images/Logo2.jpg" style="max-width:200px;"alt="Vacía tu bandeja" />	
+	</center>  
+ 
+  </figure>
+
+ <br>
+ <br>
   
   {{ content }}
 
