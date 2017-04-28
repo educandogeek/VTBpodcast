@@ -2,10 +2,11 @@
 
  
   <div class="wrapper">
-
+		
+		<a href="{{ site.url }}" ><img src="/images/Nombre.png" style="max-width:200px;"alt="Vacía tu bandeja" />	
  
       <nav class="site-nav">
-       <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+       
      
       <span class="menu-icon">
         <svg viewBox="0 0 18 15" width="18px" height="15px">
