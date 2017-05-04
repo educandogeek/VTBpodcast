@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Vacía Tu Bandeja 
-logo: /images/Logo32x32.jpg
+logo: /images/Logo1.jpg
 subtitle: Un podcast sobre organización personal, creación de hábitos y simplificar. 
 email: vaciatubandejal@gmail.com
 description: Un podcast sobre organización personal, creación de hábitos y simplificar. Hacer menos pero mejor. 
@@ -24,6 +24,11 @@ description: Un podcast sobre organización personal, creación de hábitos y si
 url: http://vaciatubandeja.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lormez16
 timezone: ES
+
+#paginate
+paginate: 4
+paginate_path: "/blog/page:num/"
+
 
 # Disqus Comments
 disqus:
@@ -37,6 +42,7 @@ theme: minima
 
 gems:
   - jekyll-feed
+  - jekyll-paginate 
   
   
 exclude:
@@ -47,7 +53,7 @@ permalink: pretty
 
 # Podcast Feed Settings
 podcast_url: https://vaciatubandeja.com
-podcast_album_art: images/Logo2.jpg
+podcast_album_art: /images/Logo2.jpg
 podcast_title: Vacia Tu Bandeja
 podcast_owner: Laura
 podcast_email: vaciatubandeja@gmail.com
