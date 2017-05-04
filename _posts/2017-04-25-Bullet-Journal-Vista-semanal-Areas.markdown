@@ -18,12 +18,13 @@ La flexibilidad que te permite el Bullet Journal es tal que con el tiempo poco a
 <center>
  <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
-
 </audio>
 </center>
+
 <center>
 [Descarga][mp3]
 </center>
+
 <br>
 
 <br/>
