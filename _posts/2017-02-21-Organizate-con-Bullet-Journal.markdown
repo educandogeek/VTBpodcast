@@ -22,14 +22,16 @@ En este episodio te voy a hablar del Bullet Journal, la herramienta que yo utili
   <source src="{{ page.podcast_link }}" type="audio/mp3">
 
 </audio>
-
+</center>
+<center>
 [Descarga][mp3]
 </center>
 
 <br>
-<br/>
 
 
+___
+<br>
 Dale una oportunidad al Bullet Journal y anímate a usarlo. Y si te gusta únete al grupo [Mi Bullet Journal] [BuJo] en Telegram.
 
 Comenta los episodios y comparte tus experiencias en el grupo de [Vacía Tu Bandeja][Telegram] en Telegram

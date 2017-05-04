@@ -20,7 +20,8 @@ La flexibilidad que te permite el Bullet Journal es tal que con el tiempo poco a
   <source src="{{ page.podcast_link }}" type="audio/mp3">
 
 </audio>
-
+</center>
+<center>
 [Descarga][mp3]
 </center>
 <br>
@@ -50,7 +51,8 @@ La flexibilidad que te permite el Bullet Journal es tal que con el tiempo poco a
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 <br>
 <br>
-
+___
+<br>
 Si usas un Bullet Journal únete al grupo [Mi Bullet Journal] [BuJo] en Telegram.
 
 Comenta los episodios y comparte tus experiencias en el grupo de [Vacía Tu Bandeja][Telegram] en Telegram

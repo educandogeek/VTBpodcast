@@ -23,7 +23,8 @@ Este libro me ha ayudado a comprender el funcionamiento del hábito. Y conocer l
   <source src="{{ page.podcast_link }}" type="audio/mp3">
 
 </audio>
-
+</center>
+<center>
 [Descarga][mp3]
 </center>
 
@@ -33,6 +34,7 @@ Este libro me ha ayudado a comprender el funcionamiento del hábito. Y conocer l
 
 ___
 
+<br>
 Comenta los episodios y comparte tus experiencias en el grupo de [Vacía Tu Bandeja][Telegram] en Telegram
 
 Si usas un Bullet Journal únete al grupo [Mi Bullet Journal] [BuJo] en Telegram.

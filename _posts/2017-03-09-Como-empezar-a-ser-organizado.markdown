@@ -21,7 +21,8 @@ Son los que yo he seguido y a los que recurro cuando siento que el caos empieza 
 <center>
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
-
+</center>
+<center>
 </audio>
 
 [Descarga][mp3]
@@ -32,7 +33,7 @@ Son los que yo he seguido y a los que recurro cuando siento que el caos empieza 
 
 ___
 
-
+<br>
 Comenta los episodios y comparte tus experiencias en el grupo de [Vacía Tu Bandeja][Telegram] en Telegram
 
 Si usas un Bullet Journal únete al grupo [Mi Bullet Journal] [BuJo] en Telegram.
