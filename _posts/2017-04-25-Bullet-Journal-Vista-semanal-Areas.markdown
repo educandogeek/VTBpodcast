@@ -53,6 +53,7 @@ La flexibilidad que te permite el Bullet Journal es tal que con el tiempo poco a
 <br>
 <br>
 ___
+
 <br>
 Si usas un Bullet Journal únete al grupo [Mi Bullet Journal] [BuJo] en Telegram.
 

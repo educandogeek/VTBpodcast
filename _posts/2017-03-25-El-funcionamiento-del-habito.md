@@ -17,16 +17,17 @@ Seguramente te ha pasado que has intentado crear algún hábito nuevo o cambiar 
 En cuanto empiezas a buscar un poco, mas pronto que tarde llegas al libro **El poder de los hábitos** de Charles Duhigg. Un libro muy interesante y que te recomiendo leer. 
 
 Este libro me ha ayudado a comprender el funcionamiento del hábito. Y conocer las partes que influyen en el mismo para poder crear y modificar hábitos de forma correcta.
+
 <br>
-<center>
+
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
 
 </audio>
-</center>
-<center>
+
+
 [Descarga][mp3]
-</center>
+
 
 <br>
 

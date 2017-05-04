@@ -10,27 +10,28 @@ podcast_link: https://archive.org/download/vaciatubandeja/Vtb01_Se_analogico_en_
 comment: true
 ---
 
-  
 Cuando comienzas con un método de organización personal o simplemente decides poner un poco de orden en tu vida una de las primeras cosas que te planteas es que herramientas vas a utilizar.
 Con una mínima búsqueda descubres que hay muchas aplicaciones, quizás demasiadas, y no sabes cual elegir. Algunas tienen una curva de aprendizaje que puede hacer que abandones lo verdaderamente importante. Poner orden en tu vida.
 
 ### ¿Y si te dijera que solo necesitas una libreta y un bolígrafo?
 En este episodio te voy a hablar del Bullet Journal, la herramienta que yo utilizo para organizarme. Vamos a ver en que consiste y como comenzar uno.
+
 <br>
-<center>
+
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
 
 </audio>
-</center>
-<center>
+
+
 [Descarga][mp3]
-</center>
+
 
 <br>
 
 
 ___
+
 <br>
 Dale una oportunidad al Bullet Journal y anímate a usarlo. Y si te gusta únete al grupo [Mi Bullet Journal] [BuJo] en Telegram.
 

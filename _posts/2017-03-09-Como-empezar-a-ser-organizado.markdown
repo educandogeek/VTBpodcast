@@ -18,16 +18,16 @@ En el episodio de hoy te voy a hablar de esos primeros pasos que te llevarán a 
 Son los que yo he seguido y a los que recurro cuando siento que el caos empieza a entrar de nuevo en mi vida.
 
 <br>
-<center>
+
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
-</center>
-<center>
+
+
 </audio>
 
 [Descarga][mp3]
 
-</center>
+
 <br>
 
 
