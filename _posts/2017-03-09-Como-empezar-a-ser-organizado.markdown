@@ -9,12 +9,7 @@ image: images/Logo2.jpg
 podcast_link: https://archive.org/download/02ComoEmpezarASerOrganizado_201704/02-Como%20empezar%20a%20ser%20organizado.mp3
 comment: true
 ---
-<audio controls>
-  <source src="{{ page.podcast_link }}" type="audio/mp3">
 
-</audio>
-[Descarga][mp3]
-<br>
 
 Razones para decidir ser organizado pueden haber muchas, quizás has leído un artículo donde te dan consejos para organizarte, o has escuchado un podcast como este, o leído un libro de organización, o tienes algún amigo que sigue un método de organización personal y te convence para que lo sigas. El problema viene cuando quieres empezar y no sabes por donde. Te ves perdido y no ves cuál es el primer paso que tienes que dar. 
 
@@ -22,9 +17,17 @@ En el episodio de hoy te voy a hablar de esos primeros pasos que te llevarán a 
 
 Son los que yo he seguido y a los que recurro cuando siento que el caos empieza a entrar de nuevo en mi vida.
 
+<br>
+<center>
+<audio controls>
+  <source src="{{ page.podcast_link }}" type="audio/mp3">
 
+</audio>
 
-<br/>
+[Descarga][mp3]
+
+</center>
+<br>
 
 
 ___
