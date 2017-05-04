@@ -9,8 +9,13 @@ image: images/Logo2.jpg
 podcast_link: https://archive.org/download/02ComoEmpezarASerOrganizado_201704/02-Como%20empezar%20a%20ser%20organizado.mp3
 comment: true
 ---
+<audio controls>
+  <source src="{{ page.podcast_link }}" type="audio/mp3">
 
-### Los 4 pasos para comenzar a tomar el control
+</audio>
+[Descarga][mp3]
+<br>
+
 Razones para decidir ser organizado pueden haber muchas, quizás has leído un artículo donde te dan consejos para organizarte, o has escuchado un podcast como este, o leído un libro de organización, o tienes algún amigo que sigue un método de organización personal y te convence para que lo sigas. El problema viene cuando quieres empezar y no sabes por donde. Te ves perdido y no ves cuál es el primer paso que tienes que dar. 
 
 En el episodio de hoy te voy a hablar de esos primeros pasos que te llevarán a ser mas organizado, a vencer esas barreras iniciales que encontramos.
@@ -18,11 +23,12 @@ En el episodio de hoy te voy a hablar de esos primeros pasos que te llevarán a 
 Son los que yo he seguido y a los que recurro cuando siento que el caos empieza a entrar de nuevo en mi vida.
 
 
-  <iframe src="https://archive.org/embed/02ComoEmpezarASerOrganizado_201704" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[Descarga][mp3]
 
 <br/>
+
+
+___
+
 
 Comenta los episodios y comparte tus experiencias en el grupo de [Vacía Tu Bandeja][Telegram] en Telegram
 
@@ -30,6 +36,7 @@ Si usas un Bullet Journal únete al grupo [Mi Bullet Journal] [BuJo] en Telegram
 
 Puedes escuchar este podcast en:
 [Spreaker][Spreaker], [Ivoox][Ivoox], [Itunes][Itunes] y [Podkas][Podkas]. 
+
 
 
 Credito de Sintonia:
