@@ -3,8 +3,9 @@
  
   <div class="wrapper">
 		
-		<a class="site-title" href="{{ site.url }}" ><img src="/images/Nombre.png" style="max-width:200px;"alt="Vacía tu bandeja" />	
- 
+		
+       	        <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+	  
       <nav class="site-nav">
     
       <span class="menu-icon">
@@ -18,6 +19,7 @@
    
 		 
       <div class="trigger">
+      
         
          <a class="page-link" href="{{ site.url }}/blog/index.html">Blog</a>
         {% for my_page in site.pages %}
@@ -28,7 +30,15 @@
         
       </div>
     
+    
+    
     </nav>
+   
+    <form action="/search/index.html" method="get">
+        <input type="text" id="search-box" name="query" t><input type="submit" value="Buscar">
+  
+    </form>
+    
  
   </div>
 
